@@ -1,0 +1,26 @@
+/* Common badge styles */
+.badge {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+  }
+  
+  /* Success badge */
+  .successing {
+    background-color: #28a745;
+  }
+  
+  /* Warning badge */
+  .warning {
+    background-color: #ffc107;
+    color: #212529;
+  }
+  
+  /* Error badge */
+  .error {
+    background-color: #dc3545;
+  }
+  

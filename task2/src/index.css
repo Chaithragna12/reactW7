@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin-left: 10rem;
+}
+.side{
+    margin-left: 25rem;
+}
+.foot{
+    display: inline-block;
+    margin-top: 2rem;
+}
+div button{
+margin: 5rem 15rem;
+}

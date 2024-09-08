@@ -1,0 +1,25 @@
+/* Styling for the breadcrumb container */
+.breadcrumb {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+  }
+  
+  /* Styling for each breadcrumb item */
+  .breadcrumbItem {
+    color: #007bff; /* Primary color for breadcrumb items */
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  /* Hover effect on breadcrumb items */
+  .breadcrumbItem:hover {
+    color: #0056b3;
+  }
+  
+  /* Separator between breadcrumb items */
+  .separator {
+    margin: 0 8px;
+    color: #6c757d; /* Gray color for the separator */
+  }
+  

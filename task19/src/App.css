@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.aside{
+    height: 100vh;
+    width: 20rem;
+    background-color: #2C3E50;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+li{
+    padding: 20px;
+    transition: background-color 0.3s ease;
+}
+li :hover{
+    background-color: #34495E;
+    width: 20rem;
+}
+a:hover{
+    color: #1ABC9C; 
+}

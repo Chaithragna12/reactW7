@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url(https://media.istockphoto.com/id/1392554386/photo/young-asian-woman-solo-travel-on-tropical-island-mountain-in-summer-sunny-day.jpg?s=612x612&w=0&k=20&c=u82dGZHLJgtqQgLK2McQfbP9crtj6gvMVcoeHEfd6RY=);
+  background-repeat: no-repeat;
+  background-size: cover;  
+}
+.input{
+  width: 15rem;
+  height: 5vh;
+  background-color:rgba(255,255,255,0.5);
+  border: 1px solid #ccc;
+}
+.content{
+  width: 15.3rem;
+  height: 5vh;
+  background-color:rgba(255,255,255,0.5);
+  border: 1px solid #ccc;
+}
+.contents{
+  width: 14.9rem;
+  height: 5vh;
+  background-color:rgba(255,255,255,0.5);
+  border: 1px solid #ccc;
+}
+.img{
+  width: 15rem;
+  height: 5vh;
+  background-color:rgba(255,255,255,0.5);
+  border: 1px solid #ccc;
+}
+h1 {
+  text-align: center;
+  margin: 16px 0;
+}
+

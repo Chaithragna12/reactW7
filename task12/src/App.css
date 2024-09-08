@@ -1,0 +1,27 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header{
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 5rem;
+  font-size: larger;
+  z-index: 1;
+  font-weight: 900;
+  text-align: center;
+  padding-top: 2rem;
+}
+.foot{
+  position: relative;
+ top: 37.9rem;
+ background-color: rgba(0, 0, 0, 0.5);
+ height: 5rem;
+ padding-top: 1rem;
+}
+a{
+  padding: 2rem;
+}
+a:hover{
+ color: black;
+}

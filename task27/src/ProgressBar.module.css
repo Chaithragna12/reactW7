@@ -1,0 +1,19 @@
+/* Container for the progress bar */
+.progressBarContainer {
+    width: 100%;
+    height: 20px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  /* Filled part of the progress bar */
+  .progressBarFill {
+    height: 100%;
+    background-color: #007bff;
+    border-radius: 10px;
+    transition: width 0.4s ease; /* Smooth animation for progress updates */
+    width: 0%; /* Default width */
+  }
+  

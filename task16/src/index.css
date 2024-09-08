@@ -1,0 +1,19 @@
+button{
+  margin-left: 2px;
+  background-color: whitesmoke;
+  border-color: #ffff;
+  border-radius: 50px;
+  height: 1.5rem;
+  width: 5rem;
+}
+div{
+  width: 20rem;
+  background-color: rgb(166, 205, 192);
+  text-align: center;
+  height: 25rem;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+}
+form{
+  padding-top: 2rem;
+}

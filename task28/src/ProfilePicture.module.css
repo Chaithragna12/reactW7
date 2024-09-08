@@ -1,0 +1,19 @@
+/* Container for the profile image */
+.profileContainer {
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    padding: 5px;
+    border: 3px solid #007bff; /* Border around the image */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow for the image */
+  }
+  
+  /* Styling for the image itself */
+  .profileImage {
+    display: block;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%; /* Make the image circular */
+  }
+  

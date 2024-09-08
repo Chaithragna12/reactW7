@@ -1,0 +1,18 @@
+/* NewsCard.module.css */
+.card {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .headline {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+  }
+  
+  .summary, .source {
+    margin: 4px 0;
+  }
+  
